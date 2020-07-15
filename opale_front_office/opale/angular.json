@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "opale"
+    }
+  },
+  "defaultProject": "opale",
+  "cli": {
+    "analytics": "1127468e-9b1b-483c-b575-4a4759cb23a0"
+  }
 }
